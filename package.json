@@ -26,7 +26,7 @@
     "@octokit/request-error": "^2.1.0",
     "@octokit/types": "^6.16.1",
     "is-plain-object": "^5.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.0.0",
     "universal-user-agent": "^6.0.0"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "@types/jest": "^27.0.0",
     "@types/lolex": "^5.1.0",
     "@types/node": "^14.0.0",
-    "@types/node-fetch": "^2.3.3",
+    "@types/node-fetch": "^3.0.0",
     "@types/once": "^1.4.0",
     "fetch-mock": "^9.3.1",
     "jest": "^27.0.0",
